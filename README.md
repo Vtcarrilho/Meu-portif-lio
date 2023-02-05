@@ -1,2 +1,2 @@
-# Meu-portif-lio
-Esse é meu primeiro projeto
+# Meu portifolio
+este é meu primeiro projeto
